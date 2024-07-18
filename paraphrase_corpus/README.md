@@ -15,4 +15,7 @@
 | rsrs1/2             | the RSRS value scored by multilingual-bert                               |
 | rsrs1/2 distil bert | the RSRS value scored by distil multilingual-bert  (⭐used in our work)   |
 
-  - [compute_similarity.py](0_compute_similarity.py): compute 3 similarity (levsim, synsim, semsim)
+  - [0_compute_similarity.py](0_compute_similarity.py): compute 3 similarity (levsim, synsim, semsim)
+  - [1_compute_rsrs.py](1_compute_rsrs.py): compute readability
+  - [2_RPS_filter.py](2_RPS_filter.py): according to relationship between language features and readability differences to mine high-quality corpus
+  - 
