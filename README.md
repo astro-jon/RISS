@@ -21,7 +21,7 @@ If you find any problems or have any questions, please contact the author by ema
 
 ## Cite
 
-如果使用了 MCTS 数据集，请您引用：
+如果 RISS 对您的研究有启发，请您引用：
 
 ```
 @misc{zhang-2024-riss,
